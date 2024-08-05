@@ -45,3 +45,7 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+## LAB
+Eu gostaria de agradecer pelo curso, que foi muito bom. No entanto, não consegui terminar essa aula do projeto. Segui todos os passos para criar uma cota no SageMaker Canvas sem ultrapassar o limite gratuito. Mesmo assim, fui cobrado e precisei parar de usar o serviço. Segui as instruções para limpar as coisas criadas no SageMaker Canvas e cancelei minha conta. Infelizmente, não consegui enviar o projeto.
+Consegui acompanhar as aulas, mas não teve a oportunidade de praticar esse projeto.
